@@ -1,0 +1,1 @@
+I do not own the assets used in this project. They were sourced as part of a course taken in my University's Program.
